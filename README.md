@@ -12,7 +12,7 @@ Old_models is not included in the disertation report.
    
    3. Arbitrary function models : Mathematical functions being tested by method1a and method 2. 
    
-   4. Black_Scholes_Model : Black Scholes models holding adjusted and non-adjusted tests. 
+   4. Black_Scholes_Model : Black Scholes models holding adjusted and non-adjusted tests for both model1a and mode2.
    
    5. BS_no_change : no adjustments to d1 and d2 
    
